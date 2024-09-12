@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html,body{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            padding: auto;
+            margin: auto;
+        }
+
+        .side-bar{
+            display: block;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        video{
+            width: 100%    !important;
+            height: auto   !important;
+        }
+
+        .vd-right{
+            
+        }
+    </style>
+</head>
+<body>
+    <fieldset>
+        <legend>Bạn đang xem video</legend>
+        <div class="container">
+            <div class="side-bar">
+                <video controls="controls" loop="loop" poster="" width="">
+                    <source src="./Video/Blazblue ost.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div class="side-bar">
+                <div class="vd-right">
+                    <img src="../Lesson02/Image/wufoo.png" alt="wufoo"/>
+                    <h3>Wufoo</h3>                 
+                </div>
+            </div>
+        </div>
+    </fieldset>
+</body>
+</html>
