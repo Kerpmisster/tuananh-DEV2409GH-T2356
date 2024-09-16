@@ -1,0 +1,23 @@
+CSS:
+ - Nhúng CSS vào trang html
+    + style inline: Phạm vi sử dụng với thẻ html hiện tại
+    + tag style: Phạm vi sử dụng trên toàn bộ trang html
+    + external style (file .css): Phạm vi sử dụng trên toàn bộ site
+        ++ Nhúng file css bằng thẻ link (hoặc import)
+ - Bộ chọn:
+    + Bộ chọn phần tử
+    + Bộ chọn id
+    + Bộ chọn class:
+        ++ .class-name
+    + Bộ chọn ngữ cảnh:
+        ++ :hover
+        ++ :before / :after
+        ....
+    + Bộ chọn giá trị thuộc tính:
+        ++ tag[attr=value] {....}; #id||.class-name[....]{....}
+    + Bộ chọn cha con:
+        ++ tag01 tag02 {....}=> quy tắc cho tag02 bên trong tag01
+        ++ tag01 > tag02 {....}=> áp dụng cho các tag02 có thành phần cha là tag01
+        ++ tag01 + tag02 {....}
+        ++ tag01~tag02 {....}
+        ++ tag01, tag02 {....}

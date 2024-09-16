@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html, body{
+            box-sizing: border-box;
+        }
+        h2+p{
+            background-color: aqua;
+        }
+        h2~p{
+            color: blue;
+        }
+        p:hover{
+            background-color: brown;
+            cursor: pointer;
+        }
+        p:first-child, p:last-child {
+            font-size: 2rem;
+            border: 1px solid gold;
+        }
+        p:nth-child(1){
+            border: 5px solid green;
+        }
+        p:nth-child(2n){
+            border: 5px solid red;
+        }
+        p:nth-child(2n+1){
+            border: 5px solid peru;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Các bộ chọn thông dụng</h1>
+    </header>
+    <section id="zone1">
+        <p>Đoạn 0</p>
+        <h2>tag01+tag02 {....}</h2>
+        <p>Đoạn 01</p>
+        <p>Đoạn 02</p>
+        <p>Đoạn 03</p>
+        <p>Đoạn 04</p>
+        <h3>==========</h3>
+        <p>Đoạn 05</p>
+        <div>
+            <p>Đoạn 06</p>
+        </div>
+    </section>
+</body>
+</html>
