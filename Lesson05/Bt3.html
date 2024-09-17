@@ -4,8 +4,89 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài tập 3</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        html, body{
+            box-sizing: border-box;
+        }
+        header{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+        }
+
+        .menu{
+            position: relative;
+            padding: 0;
+            margin: 0;
+            background-color: rgb(197, 192, 192);
+            border-right: 1px solid red;
+        }
+
+        .menu:last-child{
+            border: none;
+        }
+
+        .menu a{
+            color: black;
+            text-decoration: none;
+            display: block;
+            padding: .35rem 2rem;
+        }
+
+        .menu a:hover{
+            background-color: green;
+            color: white;
+        }
+
+        .menu>a + ul{
+            position: absolute;
+            list-style: none;
+            display: none;
+            width: 18rem;
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+        }
+
+        .menu:hover>a+ul{
+            display: flex;
+            flex-direction: column;
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+        }
+
+        .menu>ul > li{
+            position: relative;
+            padding: 0;
+            margin: 0;
+            background-color: rgb(197, 192, 192);
+        }
+
+        .menu>ul>li:last-child{
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+        }
+    </style>
 </head>
 <body>
-    
+    <header>
+        <div class="menu"><a href="">Trang chủ</a></div>
+        <div class="menu">
+            <a href="">
+                Khóa học
+            </a>
+            <ul>
+                <li><a href="">Lập trình Web PHP&MySQL</a></li>
+                <li><a href="">Lập trình Web NetCore</a></li>
+                <li><a href="">Lập trình Web Java SpringBoot</a></li>
+            </ul>
+        </div>
+        <div class="menu"><a href="">Dịch vụ</a></div>
+        <div class="menu"><a href="">Hỗ trợ</a></div>
+        <div class="menu"><a href="">Liên hệ</a></div>
+    </header>
 </body>
 </html>
