@@ -1,0 +1,2 @@
+Reponsive:
+- thiết kế css để trang html chạy trên các thiết bị khác nhau
