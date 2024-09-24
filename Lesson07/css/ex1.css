@@ -2,12 +2,6 @@
     body{
         background-color: red;
     }
-    header{
-        background-color: yellow;
-    }
-    header > h1{
-        color: white;
-    }
     section{
         background-color: green;
     }
