@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Fontawsome-Webfont";
+    src: url('../fonts/fontawesome-webfont.ttf');
+    
+}
+@font-face {
+    font-family: "Glyphicons-Halflings-Regular";
+    src: url('../fonts/glyphicons-halflings-regular.ttf');
+}
+@font-face {
+    font-family: "MULI-BOLD";
+    src: url('../fonts/MULI-BOLD.TTF');
+}
+@font-face {
+    font-family: "MULI-REGULAR";
+    src: url('../fonts/MULI-REGULAR.TTF');
+}
+@font-face {
+    font-family: "MULI-SEMIBOLD";
+    src: url('../fonts/MULI-SEMIBOLD.TTF');
+}
+@font-face {
+    font-family: "SVN-Artful Beauty";
+    src: url('../fonts/SVN-Artful Beauty.TTF');
+}
+@font-face {
+    font-family: "SVN-Athena";
+    src: url('../fonts/SVN-Athena.TTF');
+}
