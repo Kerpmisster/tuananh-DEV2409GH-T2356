@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\models\\db110context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\db110context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|d:\\dev2409gh-t2356\\tuananh-dev2409gh-t2356\\asp.netcore\\webapplication1\\webapplication1\\areas\\adminql\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A96847F-28DA-474A-9BB0-50558392AA4E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\adminql\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswB0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:52:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:50:31.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Db110Context.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Models\\Db110Context.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Db110Context.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Models\\Db110Context.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Db110Context.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA/wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:47:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\Shared\\Admin.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Views\\Shared\\Admin.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\Shared\\Admin.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\Shared\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:38:37.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:38:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:21:52.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:06:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:11:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Controllers\\DashBoardController.cs",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:03:49.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:38:45.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:38:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\AdminQL\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\DEV2409GH-T2356\\tuananh-DEV2409GH-T2356\\ASP.NETCORE\\WebApplication1\\WebApplication1\\Areas\\AdminQL\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:24:10.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
