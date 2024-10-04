@@ -74,8 +74,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAsAAAAAAAAAAAAswB0AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:52:27.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:52:27.552Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\Db110Context.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAA/wCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:47:02.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:47:02.988Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\Shared\\Admin.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:38:37.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:38:37.388Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:38:23.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:38:23.732Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:21:52.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:21:52.722Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:06:12.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:06:12.563Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Controllers\\AdminController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAkwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:11:19.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:11:19.561Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Controllers\\DashBoardController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:03:49.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:03:49.933Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:38:45.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:38:45.744Z"
             },
             {
               "$type": "Document",
@@ -204,8 +195,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:38:39.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:38:39.389Z"
             },
             {
               "$type": "Document",
@@ -217,8 +207,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\AdminQL\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T12:24:10.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T12:24:10.056Z"
             }
           ]
         }
