@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body, html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    padding: 1.6rem;
+    display: flex;
+}
+#stdForm{
+    display: none;
+}
+.action-btn{
+    margin-right: 5px;
+}
+.search-bar, .sort-bar, .search-btn{
+    margin: 1.2rem;
+}
+.sort-bar{
+    width: 11rem;
+}
+.controll-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}

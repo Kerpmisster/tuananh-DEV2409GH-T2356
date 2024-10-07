@@ -37,15 +37,68 @@ $(document).ready(function() {
                   <td>${student.age}</td>
                   <td>${sexDisplay}</td>
                   <td>
-                      <button class="btn btn-danger">Xem</button>
+                      <button class="btn btn-danger btn-view" data-index="${index}" onclick="myFunction()">Xem</button>
                       <button class="btn btn-warning text-light">Sửa</button>
-                      <button class="btn btn-success">Xóa</button>
+                      <button class="btn btn-success btn-delete" data-index="${index}">Xóa</button>
                   </td>
               </tr>
           `;
           // Thêm hàng vào bảng
           $('#studentTableBody').append(row);
       });
+      $('.btn-view').on('click', function() {
+        const studentIndex = $(this).data('index');
+        const student = students[studentIndex];
+
+        // Hiển thị thông tin sinh viên vào form
+        $('#studentId').val(student.studentId);
+        $('#studentName').val(student.studentName);
+        $('#age').val(student.age);
+        $('#sex').val(student.sex ? "Nam" : "Nữ");
+        $('#birthDate').val(student.birthDate);
+        $('#birthPlace').val(student.birthPlace);
+        $('#address').val(student.address);
+    });
+    $('.btn-delete').on('click', function() {
+      const studentIndex = $(this).data('index');
+      const updatedStudents = students.filter((_, index) => index !== studentIndex);
+      
+      // Cập nhật localStorage
+      localStorage.setItem('students', JSON.stringify(updatedStudents));
+
+      // Cập nhật bảng
+      updateTable();
+    });
+    
+    $('#addStudentForm').on('submit', function(event) {
+      event.preventDefault(); // Ngăn chặn gửi form
+
+      // Lấy dữ liệu từ form
+      const newStudent = {
+          studentId: $('#newStudentId').val(),
+          studentName: $('#newStudentName').val(),
+          age: parseInt($('#newAge').val()),
+          sex: $('#newSex').val() === "true", // Chuyển đổi giá trị
+          birthDate: $('#newBirthDate').val(),
+          birthPlace: $('#newBirthPlace').val(),
+          address: $('#newAddress').val(),
+      };
+
+      // Lấy danh sách sinh viên hiện tại từ localStorage
+      const students = JSON.parse(localStorage.getItem('students')) || [];
+
+      // Thêm sinh viên mới vào danh sách
+      students.push(newStudent);
+
+      // Cập nhật localStorage
+      localStorage.setItem('students', JSON.stringify(students));
+
+      // Cập nhật bảng
+      updateTable();
+
+      // Đặt lại form
+      $('#addStudentForm')[0].reset();
+  });
   }
-  
+
 });
