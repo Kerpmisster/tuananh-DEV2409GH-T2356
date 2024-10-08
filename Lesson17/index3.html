@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td>Xoài</td>
+            <td>Cam</td>
+        </tr>
+        <tr>
+            <td>Chuối</td>
+            <td>Bưởi</td>
+        </tr>
+        <tr>
+            <td>Nho</td>
+            <td>Dâu</td>
+        </tr>
+    </table>
+    <p id="p1">Hover nhé</p>
+
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function(){
+                $("tr:even").css("background-color","blue");
+                $("tr:odd").css("background-color","red");
+
+                $("#p1").hover(function(){
+                    alert("Hello");
+                    },function(){
+                    alert("Don't")    
+                })
+
+            });
+    </script>
+</body>
+</html>

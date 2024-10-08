@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p style="display: none;" id="test">Đây là chữ <b>Đậm</b> của đoạn p này</p>
+    <button id="btn1">Text</button>
+    <button id="btn2">Html</button>
+    <p id="t1">1</p>
+    <p id="t2">2</p>
+    <p>Nhập: <input type="text" id="t3"></p>
+    <p id="txt1">TXT1</p>
+    <p id="txt2">TXT2</p>
+    <ul>
+        <li>Sản phẩm 1</li>
+        <li>Sản phẩm 2</li>
+        <li>Sản phẩm 3</li>
+    </ul>
+    <button id="btg1">Thêm</button>
+    <button id="btg2">Thêm</button>
+    <button id="btg3">Thêm</button>
+    <button id="show">Hiển thị</button>
+
+    <a href="https://www.youtube.com/" id="ytb">YTB</a>
+    <button id="btn3">Href</button>
+    <button id="btn4">Input</button>
+    <button id="btn5">Set Text</button>
+    <button id="btn6">Set HTML</button>
+    <button id="btn7">Set VALUE</button>
+    <input type="text" id="text">
+
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function(){
+            $("#btn1").click(function(){
+                alert("Hiển thị"+ $("#test").show().text());
+            });
+            $("#btn2").click(function(){
+                alert("Hiển thị"+ $("#test").show().html());
+            });
+            $("#btn3").click(function(){
+                alert("Hiển thị"+ $("#ytb").attr("href"));
+            });
+            $("#btn4").click(function(){
+                alert("Hiển thị"+ $("#text").val());
+            });
+            $("#btn5").click(function(){
+                $("#t1").text("hello");
+            });
+            $("#btn6").click(function(){
+                $("#t2").html("hello");
+            });
+            $("#btn7").click(function(){
+                $("#t3").val("hello");
+            });
+            $("#btg1").click(function(){
+                $("p").after("<b>THÊM NỮA ĐI</b>")
+            });
+            $("#btg2").click(function(){
+                $("ul").append("<li>THÊM NỮA ĐI</li>")
+            });
+            $("#btg3").click(function(){
+                $("ul").prepend("<li>THÊM NỮA ĐI</li>")
+            });
+            $("button").click(function(){
+                $("p").empty();
+            });
+            $("#show").click(function(){
+                $("p").show();
+            });
+        });   
+    </script>
+</body>
+</html>

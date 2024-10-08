@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Xóa thẻ p trong 3 giây</p>
+    <button class="btn1">CLICK</button>
+    <button class="btn2">Dịch chuyển 1</button>
+    <button class="btn3">Dịch chuyển 2</button>
+    <button class="btn4">Dịch chuyển 3</button>
+    <button class="btn5">Dịch chuyển 4</button>
+
+    <div style="background-color: red; height:100%; width:100%; position:absolute;">
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function(){
+            $(".btn1").click(function(){
+                $("p").toggle(3000);
+            })
+            $(".btn2").click(function (){
+                function leftanimate(){
+                    $("div").animate({left: '+=250px'},1000)
+                            .animate({left: '-=250px'},1000);
+                }
+                setInterval(leftanimate, 2000);
+            })
+            $(".btn3").click(function (){
+                function rightanimate(){
+                    $("div").animate({right: '+=250px'},1000)
+                            .animate({right: '-=250px'},1000);
+                }
+                setInterval(rightanimate, 2000);
+            })
+            $(".btn4").click(function topanimate(){
+                $("div").animate({top: '250px'});
+            })
+            $(".btn5").click(function bottomanimate(){
+                $("div").animate({bottom: '-250px'});
+            })
+            $("button").click(function(){
+                var div = $("div");
+                div.animate({height:"+=300px",opacity:"0.4"},"slow")
+                div.animate({height:"+=300px",opacity:"0.8"},"slow")
+                div.animate({height:"+=100px",opacity:"0.4"},"slow")
+                div.animate({height:"+=100px",opacity:"0.8"},"slow")
+            })
+
+
+            setInterval(topanimate, 2000);
+            setInterval(bottomanimate, 2000);
+
+        });   
+                
+    </script>
+</body>
+</html>

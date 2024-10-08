@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Đây là phần tử của thẻ h2</h2>
+    <p>Đây là phần tử của thẻ p</p>
+    <p>Đay là phần tử kahsc của thẻ p</p>
+    <button>
+        Click để ẩn các đoạn có trong thẻ p
+    </button>
+
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                $("p").toggle();
+            })
+        });
+    </script>
+</body>
+</html>
