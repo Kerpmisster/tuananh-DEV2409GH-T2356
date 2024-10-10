@@ -1,1 +1,9 @@
 Nguyễn Tuấn Anh 
+$(document).ready(function(){
+    -- các câu lệnh sử dụng với jquery
+
+    -- tương tác:
+    $(selector).action(...){...}
+        -- selector: html tag, #id, .class-name, css selector,...
+        
+})

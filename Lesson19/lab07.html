@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <section id="zone1">
+        <h1>Chọn màu chữ</h1>
+        <div class="button">
+            <button value="red" >Đỏ</button>
+            <button value="blue">Xanh</button>
+            <button value="yellow">Vàng</button>
+            <button value="gray">Ghi</button>
+            <button value="violet">Tím</button>
+        </div>
+        <div class="noi-dung">
+            <p>
+                Lập trình web với PHP và MySQL
+            </p>
+        </div>
+        <div>
+            <button id="reset">Reset</button>
+        </div>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        $(document).ready(function(){
+            $('.button > button').each(function(){
+                let valcolor = $(this).attr("value");
+                $(this).css({'border':'1px solid '+ valcolor,
+                             "background": valcolor,
+                             'padding':'.15rem 1rem'
+                });
+            });
+            $('.button > button').click(function(){
+                let color = $(this).attr("value");
+                $('.noi-dung p').css({'color':color
+                });
+            });
+            $('#reset').click(function(){
+                $('.noi-dung p').css({'color':"black"
+                });
+            });
+        });
+    </script>
+</body>
+</html>
