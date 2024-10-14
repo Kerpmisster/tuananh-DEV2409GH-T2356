@@ -16,7 +16,9 @@
         <div class="container">
             <div class="row">
                 <div id="product-item">
-                    <p></p>
+                    <p>
+                        <img src="" alt="">
+                    </p>
                 </div>
             </div>
         </div>
@@ -33,7 +35,7 @@
 
             $.ajax({
                 type: 'GET',
-                dataType:"json",
+                dataType:"image/jpg",
                 url: 'http://apixm.devmaster.vn/api/Products',
                 success: function (data, status, xhr) {
                         console.log('data: ', data);
@@ -45,11 +47,11 @@
            
             // hiển thị
             function show(data){
-                $("#product-item").html("");
+                $("#product-item").html(data);
                 let pItem="";
                 data.forEach(element => {
                     let item = `
-                            <p class="bg-danger">${element.title} </p>
+                            <p class="bg-danger"><img src="${element.image}" alt=""> </p>
                         `
                         pItem +=item;
                 });
